@@ -1,3 +1,5 @@
+package com.yearup.week3;
+
 public class VariableInit {
 	//Type casting lecture
   public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.yearup.week2;
+package com.yearup.week3;
 
 public class TypeCastingExercise1
 {

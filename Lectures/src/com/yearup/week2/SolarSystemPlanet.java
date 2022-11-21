@@ -1,4 +1,4 @@
-package com.yearup.week2.homework;
+package com.yearup.week2;
 
 import java.util.Scanner;
 
@@ -30,3 +30,4 @@ public class SolarSystemPlanet extends Planet {
         }
     }
 }
+

@@ -1,3 +1,5 @@
+package com.yearup.week3;
+
 public class SumCalculator {
 		/*
 		1. Get two arguments from command line

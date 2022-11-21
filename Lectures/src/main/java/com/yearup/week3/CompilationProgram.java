@@ -1,4 +1,4 @@
-package com.yearup.week2;
+package com.yearup.week3;
 
 class CompilationProgram {
 public static void main(String args[]) { 

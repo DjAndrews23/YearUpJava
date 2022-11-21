@@ -1,4 +1,4 @@
-package com.yearup.week2.homework;
+package com.yearup.week2;
 
 import java.util.Scanner;
 
@@ -49,5 +49,5 @@ public class SquareCalculatorClass implements Calculator {
         square1.displayArea();
     }
 
-
 }
+

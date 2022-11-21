@@ -1,5 +1,4 @@
-package com.yearup.week2.homework;
-
+package com.yearup.week2;
 
 public interface Calculator {
 
@@ -9,5 +8,3 @@ public interface Calculator {
 
     double getVolume(double side1, double side2, double side3);
 }
-
-

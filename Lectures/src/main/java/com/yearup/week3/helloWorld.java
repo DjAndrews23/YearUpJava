@@ -1,3 +1,5 @@
+package com.yearup.week3;
+
 public class helloWorld {
   public static void main(String[] args) {
 	//prints Hello world in command line.

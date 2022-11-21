@@ -1,3 +1,5 @@
+package com.yearup.week3;
+
 class TypeCastingExercise2
 {
 public static void main(String[] args)
